@@ -145,7 +145,7 @@ Upon finishing the analysis, an interactive Matplotlib plot is opened with thumb
 
 Select a plot by **clicking on its thumbnail**.
 
-<img src="https://github.com/drsanchis/blantarctic/blob/master/images/thumbs_menu.png" width="48">
+<img src="https://github.com/drsanchis/blantarctic/blob/master/images/thumbs_menu.png" width="600">
 
 #### 2. Interactive alignment
 
@@ -163,9 +163,13 @@ By **hovering** over the domains, a text box appears with the name of the domain
 
 You can **return** to the thumbnails menu anytime by clicking the "Volver" button.
 
+<img src="https://github.com/drsanchis/blantarctic/blob/master/images/interactive_plot.png" width="600">
+
 #### 3. Expanded info pop-up
 
 It may take a few seconds for the information to be retrieved and for this windows to be opened. Please, be patient. It consists of two tabs, where relevant information of both the **domain** itself (including its position in the alignment) and the **protein** in which is located is presented.
+
+<img src="https://github.com/drsanchis/blantarctic/blob/master/images/popup.png" width="800">
 
 #### 4. Re-opening a project file
 

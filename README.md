@@ -90,9 +90,9 @@ parent_directory
 │
 ├── name_data_1
 │		├── raw_GBs
-│		│		├── Genome1.gbff
-│		│		├── Genome2.gbff
-│		│		└── ...
+│		│   ├── Genome1.gbff
+│		│   ├── Genome2.gbff
+│		│   └── ...
 │		├── genomes_multifasta.fa
 │		└── queries.fa
 │

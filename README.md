@@ -23,9 +23,8 @@ Furthermore, this particular package:
 
 - **Databases:** prosite.dat and prosite.doc **must be manually included** in the package folder before executing the program (not uploaded to this repository due to size limitations).
 
-  
 
-## Usage
+## Usage
 
 ```bash
 python BLAntractic.py -q ../queries.fa -s ../subjects_folder/ -n project_name

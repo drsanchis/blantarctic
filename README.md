@@ -1,10 +1,5 @@
-
-#
-
 ![](https://github.com/drsanchis/blantarctic/blob/master/images/header.png)
 
-
-## Introduction
 
 This package is capable of performing a tandem bioinformatic analysis (including BLAST, multiple alignment, phylogeny and conserved domains characterization) comparing one or more query proteins with the protein sequences contained in several GeneBank files.
 

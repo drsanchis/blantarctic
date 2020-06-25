@@ -1,6 +1,6 @@
 
 
-![image-20200625124510323](https://github.com/drsanchis/blantarctic/blob/master/media/Encabezado.png)
+![](https://github.com/drsanchis/blantarctic/blob/master/images/header.png)
 
 
 
@@ -116,7 +116,7 @@ parent_directory
 		│		└── ...
 		├── protein_domains
 		│		├── Q1_query1_domains.txt
-	  │		└── ...
+		│		└── ...
 		├── plots
 		│		├── Q1_query1.png
 		│		└── ...

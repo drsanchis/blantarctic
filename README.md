@@ -25,7 +25,7 @@ Furthermore, this particular package:
 
 
 ## Usage
-No instalation is required, just download and run.
+No instalation is required, just copy the 'BLAntarctic_v0_1' folder, and run the BLAntarctic.py script.
 
 ```bash
 python BLAntractic.py -q ../queries.fa -s ../subjects_folder/ -n project_name

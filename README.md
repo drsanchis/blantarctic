@@ -111,13 +111,13 @@ parent_directory
    │   ├── Q1_tree_plot.pdf
    │   └── ...
    ├── protein_domains
-   │   ├── Q1_query1_domains.txt
+   │   ├── Q1_query1_domains.tsv
    │   └── ...
    ├── plots
    │   ├── Q1_query1.png
    │   └── ...
-   ├── blast_results.txt
-   ├── filtered_blast_results.txt
+   ├── blast_results.tsv
+   ├── filtered_blast_results.tsv
    └── project.bapj
 
 ```

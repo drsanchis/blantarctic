@@ -25,6 +25,7 @@ Furthermore, this particular package:
 
 
 ## Usage
+No instalation is required, just download and run.
 
 ```bash
 python BLAntractic.py -q ../queries.fa -s ../subjects_folder/ -n project_name

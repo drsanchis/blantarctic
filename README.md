@@ -83,41 +83,41 @@ The output files tree has the following structure:
 ```
 parent_directory
 ├── BLAntractic_package
-│		├── prosite.dat
-│		├── prosite.doc
-│		├── BLAntarctic.py
-│		└── ... (all other modules)
+│   ├── prosite.dat
+│   ├── prosite.doc
+│   ├── BLAntarctic.py
+│   └── ... (all other modules)
 │
 ├── name_data_1
-│		├── raw_GBs
-│		│   ├── Genome1.gbff
-│		│   ├── Genome2.gbff
-│		│   └── ...
-│		├── genomes_multifasta.fa
-│		└── queries.fa
+│   ├── raw_GBs
+│   │   ├── Genome1.gbff
+│   │   ├── Genome2.gbff
+│   │   └── ...
+│   ├── genomes_multifasta.fa
+│   └── queries.fa
 │
 └── name_results_1
-		├── unaligned_matches
-		│		├── Q1_query1_matches.fa
-		│		└── ...
-		├── aligned_matches
-		│		├── Q1_query1_aligned.fa
-		│		└── ...
-		├── trees_nw
-		│		├── Q1_tree.nw
-		│		└── ...
-		├── trees_plot
-		│		├── Q1_tree_plot.pdf
-		│		└── ...
-		├── protein_domains
-		│		├── Q1_query1_domains.txt
-		│		└── ...
-		├── plots
-		│		├── Q1_query1.png
-		│		└── ...
-		├── blast_results.txt
-		├── filtered_blast_results.txt
- 		└── project.bapj
+   ├── unaligned_matches
+   │   ├── Q1_query1_matches.fa
+   │		└── ...
+   ├── aligned_matches
+   │   ├── Q1_query1_aligned.fa
+   │		└── ...
+   ├── trees_nw
+   │   ├── Q1_tree.nw
+   │   └── ...
+   ├── trees_plot
+   │   ├── Q1_tree_plot.pdf
+   │   └── ...
+   ├── protein_domains
+   │   ├── Q1_query1_domains.txt
+   │		└── ...
+   ├── plots
+   │   ├── Q1_query1.png
+   │   └── ...
+   ├── blast_results.txt
+   ├── filtered_blast_results.txt
+   └── project.bapj
 
 ```
 

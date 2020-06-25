@@ -41,14 +41,15 @@ Further options are:
 
 - **–h** to show a help.
 
-- **––eval** followed by a <u>float</u>, to restrict the minimum e-value of BLAST results. Default: 10e-5.
+- **--eval** followed by a <u>float</u>, to restrict the minimum e-value of BLAST results. Default: 10e-5.
 
-- **––ident** followed by a <u>float</u>, to set a minimum identity threshold for the BLAST results. Default: 30%.
+- **--ident** followed by a <u>float</u>, to set a minimum identity threshold for the BLAST results. Default: 30%.
 
-- **––cov** followed by a <u>float</u>, to set a minimum coverage threshold for the BLAST results. Default: 50%.
+- **--cov** followed by a <u>float</u>, to set a minimum coverage threshold for the BLAST results. Default: 50%.
 
-- **––exclude** in order to exclude from the search those PROSITE domains marked with `/SKIP-FLAG`, which are commonly found post-translational modifications in the majority of sequences. Removing these domains from the analysis may improve visibility of other more relevant domains.
+- **--exclude** in order to exclude from the search those PROSITE domains marked with `/SKIP-FLAG`, which are commonly found post-translational modifications in the majority of sequences. Removing these domains from the analysis may improve visibility of other more relevant domains.
 
+- **-o** followed by the path to a BLAnatrctic project file (\*.bapj) to open it and directly access the interactive plots.
   
 
 ## Input

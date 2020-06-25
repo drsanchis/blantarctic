@@ -145,6 +145,8 @@ Upon finishing the analysis, an interactive Matplotlib plot is opened with thumb
 
 Select a plot by **clicking on its thumbnail**.
 
+<img src="https://github.com/drsanchis/blantarctic/blob/master/images/thumbs_menu.pngo" width="48">
+
 #### 2. Interactive alignment
 
 An interactive plot of a query's alignment is show.

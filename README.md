@@ -102,7 +102,7 @@ parent_directory
    │   └── ...
    ├── aligned_matches
    │   ├── Q1_query1_aligned.fa
-   │		 └── ...
+   │   └── ...
    ├── trees_nw
    │   ├── Q1_tree.nw
    │   └── ...
@@ -111,7 +111,7 @@ parent_directory
    │   └── ...
    ├── protein_domains
    │   ├── Q1_query1_domains.txt
-   │	 	└── ...
+   │   └── ...
    ├── plots
    │   ├── Q1_query1.png
    │   └── ...
@@ -176,7 +176,7 @@ It may take a few seconds for the information to be retrieved and for this windo
 If the user wants to access the interactive view above explained **at any other moment**, **the complete analysis doesn't need to be run**. By accessing the `project.bapj` file contained in the results directory, the interactive plots can be loaded in a much faster way. In order to open the project file, use:
 
 ```bash
-python BLantarctic.py -o [path_to_project_file]
+python BLAntarctic.py -o [path_to_project_file]
 ```
 
 

@@ -39,7 +39,7 @@ Where:
 
 Further options are:
 
-- **–h** to show a help.
+- **–h** to show help.
 
 - **--eval** followed by a <u>float</u>, to restrict the minimum e-value of BLAST results. Default: 10e-5.
 

@@ -1,6 +1,6 @@
 
 
-![image-20200625124510323](/Users/diegoruiz/Library/Application Support/typora-user-images/image-20200625124510323.png)
+![image-20200625124510323](https://github.com/drsanchis/blantarctic/blob/master/media/Encabezado.png)
 
 
 

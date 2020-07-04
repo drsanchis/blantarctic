@@ -153,14 +153,14 @@ Select a plot by **clicking on its thumbnail**.
 An interactive plot of a query's alignment is show.
 
 - The **query** protein is depicted in **blue** at the top of the plot.
-- All **subject** proteins are aligned under the query, depicted in **grey**. Their corresponding locus tag and species is noted in the right margin. 
+- All **subject** proteins are aligned under the query, depicted in **grey**. Their corresponding locus tag and species is noted in the left margin. 
 - The actual sequence of both query and subject proteins is depicted by a wider box, while spacers (gaps) resulting from the alignment are represented by a narrower line that horizontally connects those boxes.
 - Colored regions on the proteins depict conserved **domains**. 
   - **Green boxes** for common <u>phosphorylation</u> sites.
   - **Yellow boxes** for <u>myristoylation</u> sites.
   - **Orange boxes** for all <u>other</u> motifs.
 
-By **hovering** over the domains, a text box appears with the name of the domain and is PROSITE accession number. By **clicking ** on any of those domains, a pop-up window opens with extra information.
+By **hovering** over the domains, a text box appears with the name of the domain and is PROSITE accession number. By **clicking** on any of those domains, a pop-up window opens with extra information.
 
 You can **return** to the thumbnails menu anytime by clicking the "Volver" button.
 
